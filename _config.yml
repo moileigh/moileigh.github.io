@@ -1,0 +1,33 @@
+title: Scribbling Hope
+subtitle: because sometimes we all need a little more hope
+author: Monica Nelson
+email: moi@scribblinghope.com
+description: >- # this means to ignore newlines until "baseurl:"
+   Sometimes we don’t get to choose. Sometimes God grabs our hands and leads us on a journey. One we may not understand. One we would not have chosen. But one that shapes, changes, and saves our lives. Because He is merciful. Because He loves us.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://moileigh.github.io" 
+
+facebook_username: moileigh
+goodreads_username: moileigh
+
+show_excerpts: true
+
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
