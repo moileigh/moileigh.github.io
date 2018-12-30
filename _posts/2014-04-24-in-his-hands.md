@@ -18,7 +18,7 @@ It&#8217;s currently available on Create Space, and will be available on
 
 <div>
   <p>
-    <nobr><a href="http://www.caringbridge.org/visit/moileigh/journal#">Amazon</a></nobr> in five to seven days ($10 for <nobr><a href="http://www.caringbridge.org/visit/moileigh/journal#">paperback</a></nobr>, $5 for kindle version).<br /> Thank you, to everyone who encouraged me along the way. This one&#8217;s for you!
+    <nobr><a href="http://a.co/0WGJFxg">Amazon</a></nobr> in five to seven days ($10 for <nobr><a href="http://a.co/0WGJFxg">paperback</a></nobr>, $5 for kindle version).<br /> Thank you, to everyone who encouraged me along the way. This one&#8217;s for you!
   </p>
   
   <p>
@@ -36,7 +36,7 @@ It&#8217;s currently available on Create Space, and will be available on
   
   <div>
     <div>
-      <a href="https://i1.wp.com/1.bp.blogspot.com/-Iss0qSpr8y0/U1j9snPwhaI/AAAAAAAAAMU/ypLQti4Cjzk/s1600/BookCoverImage.jpg" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" src="https://i1.wp.com/1.bp.blogspot.com/-Iss0qSpr8y0/U1j9snPwhaI/AAAAAAAAAMU/ypLQti4Cjzk/s1600/BookCoverImage.jpg?resize=213%2C320" height="320" width="213" data-recalc-dims="1" /></a> 6&#8243; x 9&#8243; (15.24 x 22.86 cm)<br /> Black & White on Cream paper<br /> 124 pages
+      <img class="cover" border="0" src="/assets/his-hands-cover.jpg" alt="In His Hands cover" height="320" width="213" data-recalc-dims="1" /> 6&#8243; x 9&#8243; (15.24 x 22.86 cm)<br /> Black & White on Cream paper<br /> 124 pages
     </div>
     
     <div>

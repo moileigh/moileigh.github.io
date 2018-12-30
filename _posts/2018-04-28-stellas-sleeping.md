@@ -4,7 +4,6 @@ date: 2018-04-28T15:52:02+00:00
 layout: post
 permalink: /2018/04/28/stellas-sleeping/
 categories:
-  - Uncategorized
 ---
 Stella’s sleeping.
 	  

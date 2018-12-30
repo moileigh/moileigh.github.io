@@ -4,7 +4,6 @@ date: 2018-02-14T21:48:16+00:00
 layout: post
 permalink: /2018/02/14/my-valentine-previously-published-in-part-under-the-title-yes/
 categories:
-  - Uncategorized
 ---
 Valentine&#8217;s Day can be a tough day for some people. If you&#8217;re in a relationship, there&#8217;s pressure to get the perfect gift and go on the perfect date. If you&#8217;re not in a relationship, every ad and candy heart reminds you that you&#8217;re alone, hinting that, maybe, somehow, you&#8217;re flawed because of that aloneness.
 
