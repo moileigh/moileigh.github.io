@@ -38,6 +38,8 @@ layout: default
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
+
+
 <div class="post-navigator">
    {% if page.previous.url %}
       <a class="prev" href="{{page.previous.url}}">&laquo;prev</a>
@@ -46,3 +48,7 @@ layout: default
       <a class="next" href="{{page.next.url}}">next&raquo;</a>
    {% endif %}
 </div>
+
+
+
+{% include share-page.html %}
