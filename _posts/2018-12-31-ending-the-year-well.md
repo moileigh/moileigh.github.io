@@ -8,10 +8,11 @@ I'm sitting by the fire place, drying my hair, and contemplating the end of the 
 As usual, one of my plans is to write more.
 Fortunately, this should be kind of easy.
 In 2018, I apparently only blogged fifteen times - eleven times in January, twice in February, once in April, and today.
+
 That should be easy to beat.
 
 Especially when I think about all the things I've got to say.
-The graceful passing of my Stella Belle, the heart-tugging arrival of Manny, the ongoing adventures of 'the perfect car, the gluten free, sugar free, dairy free diet I'm supposed to start tomorrow...
+The graceful passing of my Stella Belle, the heart-tugging arrival of Manny, the ongoing adventures of 'the perfect car', the gluten free, sugar free, dairy free diet I'm supposed to start tomorrow...
 And then there's always the daily anecdotes of every day teaching in a rural public school in the town I grew up in.
 I've still got some stories to tell.
 
