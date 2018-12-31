@@ -1,5 +1,5 @@
 ---
-title: "ending the year well"
+title: "Ending the Year Well"
 layout: post
 categories:
   - Daily Life
@@ -29,4 +29,5 @@ To blog at least 16 times in 2019.
 Together, we can focus on the positive and make this next year even more amazing than the one we're ending today.
 
 Happy New Year to you and yours.
+
 May 2019 be full of Hope, of Love, and of shared Joy.
