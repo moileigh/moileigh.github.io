@@ -24,7 +24,7 @@ Or how my parents felt when they dropped my brother and I off at boarding school
 Or how God might have felt, when Jesus slipped into skin and lived down here with us for a bit. 
 The first empty nest. 
 
-I suppose the second was in Eden, when Adam and Eve sadly slipped out of the garden.
+I suppose the second was in Eden, when Adam and Eve slipped out of the garden.
 Did they look back as they left?
 Were they sad?
 Was God standing there watching them leave?
