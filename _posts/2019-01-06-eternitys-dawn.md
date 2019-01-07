@@ -13,18 +13,17 @@ upon an old promise that makes all things new,
 
 sung by the angels to the faithful few.  
 
+If you choose to run, life just goes on.
 
-     If you choose to run, life just goes on.
+Working and playing -- an endless con
 
-     Working and playing -- an endless con
+meant to distract you. To keep you from choosing.
 
-     meant to distract you. To keep you from choosing.
+So caught up in winning that you end up losing
 
-     So caught up in winning that you end up losing
+the Hope in the Promise placed in a manger.
 
-     the Hope in the Promise placed in a manger.
-
-     God born in flesh to save you from danger. 
+God born in flesh to save you from danger. 
 
 
 Maybe you won't chose. You'll just turn your back. 
@@ -44,23 +43,23 @@ Surely a good God won't sent people to Hell.
 For now, you fill life with kind, gracious acts.
 
 
-     The Promise grows older, the child to a man. 
+The Promise grows older, the child to a man. 
 
-     His miracles and parables are all part of a plan
+His miracles and parables are all part of a plan
 
-     to rescue the broken and redeem all the lost.
+to rescue the broken and redeem all the lost.
 
-     To love the unlovable, whatever the cost.
+To love the unlovable, whatever the cost.
 
-     The Promise on the cross, stretched out for our lies,
+The Promise on the cross, stretched out for our lies,
 
-     our anger, our hatred, our theft, and our cries.
+our anger, our hatred, our theft, and our cries.
 
-     The God on the cross with such pain in His eyes
+The God on the cross with such pain in His eyes
 
-     takes one last, deep breath
+takes one last, deep breath
 
-     and then dies...
+and then dies...
 
 
 A heart beat between two breaths.
