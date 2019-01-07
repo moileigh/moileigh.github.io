@@ -26,6 +26,7 @@ the Hope in the Promise placed in a manger.
 God born in flesh to save you from danger. 
 
 
+
 Maybe you won't chose. You'll just turn your back. 
 
 Ignoring the questions, you'll try filling the lack 
@@ -41,6 +42,7 @@ Surely a good God won't sent people to Hell.
 "I'll answer it later when I have all the facts."
 
 For now, you fill life with kind, gracious acts.
+
 
 
 The Promise grows older, the child to a man. 
@@ -62,6 +64,7 @@ takes one last, deep breath
 and then dies...
 
 
+
 A heart beat between two breaths.
 
 A chance to run, or a chance to rest
@@ -72,4 +75,4 @@ You *can* have peace. You *can* make it through
 
 this life in one piece to the Life that's beyond
 
-all we can imaagine at eternity's dawn.
+all we can imagine at eternity's dawn.
