@@ -1,7 +1,7 @@
 ---
-Title: "Doors and Windows"
-Layout: Post
-Categories:
+title: "Doors and Windows"
+layout: Post
+categories:
   - Faith
 ---
 I've always had a fascination with doors and windows.

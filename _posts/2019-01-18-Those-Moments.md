@@ -1,7 +1,7 @@
 ---
-Title: "Those Moments"
-Layout: post
-Categories:
+title: "Those Moments"
+layout: post
+categories:
     - Poetry
     - Faith
 ---

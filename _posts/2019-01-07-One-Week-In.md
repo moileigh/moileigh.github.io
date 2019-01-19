@@ -1,7 +1,7 @@
 ---
-Title: "One Week In"
-Layout: post
-Categories:
+title: "One Week In"
+layout: post
+categories:
   - Daily Life
 ---
 We're one week in. 

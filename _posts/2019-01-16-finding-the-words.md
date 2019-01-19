@@ -1,7 +1,7 @@
 ---
 title: "Finding the Words"
 layout: post
-Categories:
+categories:
   - Daily Life
 ---
 Happy Wednesday!

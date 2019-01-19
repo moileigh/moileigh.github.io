@@ -1,5 +1,5 @@
 ---
-Title: "Three Days In"
+title: "Three Days In"
 layout: post
 category:
   - Daily Life

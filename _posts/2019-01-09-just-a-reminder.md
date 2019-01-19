@@ -1,7 +1,7 @@
 ---
-Title: "Just a Reminder"
-Layout: post
-Categories:
+title: "Just a Reminder"
+layout: post
+categories:
   -Faith
 ---
 I just wanted to remind you that you are loved.

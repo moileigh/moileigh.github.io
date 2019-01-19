@@ -1,7 +1,7 @@
 ---
-Title: "Eternity's Dawn"
-Layout: post
-Categories:
+title: "Eternity's Dawn"
+layout: post
+categories:
   - Poetry
 ---
 
