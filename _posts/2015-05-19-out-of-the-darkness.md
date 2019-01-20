@@ -5,6 +5,7 @@ layout: post
 permalink: /2015/05/19/out-of-the-darkness/
 categories:
   - Faith
+  - Poetry
 ---
 I wear a bracelet that says &#8220;out of the darkness.&#8221;
 
