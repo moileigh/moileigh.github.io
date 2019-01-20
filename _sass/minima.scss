@@ -15,15 +15,16 @@ $silk-color:       #DCD0C0 !default;
 $paper-color:      #F4F4F4 !default;
 $charcoal-color:   #373737 !default;
 
+$silk-color-light: lighten($silk-color, 15%) !default;
+$paper-color-light: lighten($paper-color, 5%) !default;
+$gold-color-light: lighten($gold-color, 10%) !default;
+$charcoal-color-light: lighten($charcoal-color, 40%) !default;
+
 $text-color:       #111 !default;
-$background-color: $paper-color;
+$background-color: $silk-color-light;
 $brand-color:      #2a7ae2 !default;
 
 
-
-$silk-color-light: lighten($silk-color, 10%) !default;
-$gold-color-light: lighten($gold-color, 10%) !default;
-$charcoal-color-light: lighten($charcoal-color, 40%) !default;
 
 $pink-color:       #f2b1b1 !default;
 $pink-color-light: lighten($pink-color, 40%) !default;

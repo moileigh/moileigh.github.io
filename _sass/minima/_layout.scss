@@ -246,6 +246,15 @@
 /**
  * Posts
  */
+.post {
+  background-color: $paper-color-light;
+  border-radius: 15px 50px;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 50px;
+  padding-left: 20px;
+}
+
 .post-header {
   margin-bottom: $spacing-unit;
 }
