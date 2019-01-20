@@ -5,6 +5,8 @@ layout: post
 permalink: /2013/06/07/assurance/
 categories:
   - Faith
+  - Cancer
+  - Poetry
 ---
 You held my heart through radiation.
   
