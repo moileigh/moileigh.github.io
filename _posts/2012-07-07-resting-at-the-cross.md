@@ -5,6 +5,7 @@ layout: post
 permalink: /2012/07/07/resting-at-the-cross/
 categories:
   - Faith
+  - Poetry
 ---
 Abba,
   
