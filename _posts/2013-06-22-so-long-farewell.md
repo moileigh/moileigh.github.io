@@ -5,6 +5,7 @@ layout: post
 permalink: /2013/06/22/so-long-farewell/
 categories:
   - Daily Life
+  - Poetry
 ---
 
 
