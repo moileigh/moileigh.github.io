@@ -1,6 +1,6 @@
 ---
 title: "Doors and Windows"
-layout: Post
+layout: post
 categories:
   - Faith
 ---

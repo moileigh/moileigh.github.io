@@ -2,7 +2,7 @@
 title: "Just a Reminder"
 layout: post
 categories:
-  -Faith
+  - Faith
 ---
 I just wanted to remind you that you are loved.
 More than loved.
