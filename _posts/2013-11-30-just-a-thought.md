@@ -5,6 +5,7 @@ layout: post
 permalink: /2013/11/30/just-a-thought/
 categories:
   - Faith
+  - Poetry
 ---
 
 
