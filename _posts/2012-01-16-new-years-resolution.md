@@ -5,6 +5,7 @@ layout: post
 permalink: /2012/01/16/new-years-resolution/
 categories:
   - Faith
+  - Poetry
 ---
 <div style="color: #351c75;">
   <span style="font-size: small;">I have a simple New Year&#8217;s Resolution this year. It&#8217;s not to exercise more, or to lose weight. It&#8217;s not to eat less chocolate or more fiber. It&#8217;s not even to be nicer to my fellow man. It&#8217;s simply to simplify my life. To wrap all of my mixed up, random, chaotic plans into one simple goal: To find God.</span>
