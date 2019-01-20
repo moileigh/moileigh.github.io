@@ -6,6 +6,7 @@ permalink: /2018/01/03/peace-a-page-from-my-newest-book/
 categories:
   - Devotional
   - Faith
+  - Poetry
 ---
 **Peace**
   
