@@ -269,3 +269,20 @@ table {
     border: 1px solid $grey-color-light;
   }
 }
+
+/**
+ * Forms and stuff
+ */
+input {
+   @include relative-font-size(1.2);
+   width: 100%;
+   margin-bottom: 10px;
+}
+
+textarea {
+   @include relative-font-size(1.2);
+   width: 100%;
+   resize: none;
+}  
+
+
