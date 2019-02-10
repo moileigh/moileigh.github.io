@@ -2,7 +2,7 @@
 title: "Take Your Time"
 layout: post
 categories:
-  - poetry
+  - Poetry
 ---
 <p><span style="color: #800000;">Caught</span></p>
 <p><span style="color: #800000;">in a chaotic cycle of unfinished projects,</span></p>

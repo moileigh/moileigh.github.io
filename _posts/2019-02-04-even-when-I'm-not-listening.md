@@ -2,7 +2,7 @@
 title: "Even When I'm Not Listening"
 layout: post
 categories:
-  - poem
+  - Poetry
 ---
 <p><span style="color: #333399;">&ldquo;I&rsquo;m supposed to be learning to listen, but I&rsquo;m still surrounding myself by noise.&rdquo;</span></p>
 <p><span style="color: #333399;">&nbsp;<span style="color: #000000;">I wrote that on a road trip in 2014. And then I wrote the following poem. God does meet us more than halfway. And He keeps talking even when we forget that we&rsquo;re supposed to be listening.</span></span></p>

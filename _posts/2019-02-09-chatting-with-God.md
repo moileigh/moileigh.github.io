@@ -2,7 +2,7 @@
 title: "Chatting With God"
 layout: post
 categories: 
-  - faith
+  - Faith
 ---
 <p><span style="color: #993300;">I&rsquo;m not worthy.</span></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #333399;">No. No, you&rsquo;re not.</span></p>
