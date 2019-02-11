@@ -1,5 +1,5 @@
 ---
-title: "A Day in the Life of a Perptetual Student"
+title: "A Day in the Life of a Perpetual Student"
 layout: post
 categories:
   - Daily Life
