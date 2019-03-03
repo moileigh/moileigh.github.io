@@ -20,6 +20,9 @@ $paper-color-light: lighten($paper-color, 5%) !default;
 $gold-color-light: lighten($gold-color, 10%) !default;
 $charcoal-color-light: lighten($charcoal-color, 40%) !default;
 
+$gold-color-dark: darken($gold-color, 40%) !default;
+
+
 $text-color:       #111 !default;
 $background-color: $silk-color-light;
 $brand-color:      #2a7ae2 !default;
