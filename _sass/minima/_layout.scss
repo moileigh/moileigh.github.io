@@ -254,9 +254,6 @@
    >hr {
       border-color: $charcoal-color-light;
  }
-   >a:link, a:visited {
-      color: $text-color;
-   }
 }
 
 .post-cat-menu {
@@ -271,7 +268,7 @@
    }
 }
 .category-title {
-
+      color: $text-color;
 }
 
 
