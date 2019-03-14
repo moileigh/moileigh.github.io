@@ -342,10 +342,11 @@
 
 .direction {
    padding: 4px;
-   color: $text-color !important;
+   color: white !important;
    text-decoration: none !important;
    border-radius: 4px;
-   background-color: $gold-color;
+   background-color: $button-blue;
+   font-variant: small-caps;
   @include relative-font-size(1.15);
 }
 
