@@ -1,5 +1,5 @@
 ---
-layout: post-nav
+layout: all-posts
 permalink: /posts/category/
 title: Posts By Category
 ---

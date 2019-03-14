@@ -1,5 +1,5 @@
 ---
-layout: post-nav
+layout: all-posts
 title: All Posts
 permalink: /posts/all/
 ---
