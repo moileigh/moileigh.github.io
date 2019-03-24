@@ -4,7 +4,7 @@ layout: post
 categories:
   - Daily Life
 ---
-<p>This year, on the first day of school, we had a special guest speaker, John Perricone, come in to motivate the teachers. He&rsquo;d come the year before, too, and we were truly excited to have him back. He reminded us about why we teach, and he taught us about how to live intentionally and positively. He made us laugh. He made us think. He made us better.</p>
+<p>This year, on the first day of the school year, we had a special guest speaker, John Perricone, come in to motivate the teachers. He&rsquo;d come the year before, too, and we were truly excited to have him back. He reminded us about why we teach, and he taught us about how to live intentionally and positively. He made us laugh. He made us think. He made us better.</p>
 <p>Then he went back into his world of traveling, speaking engagements, and writing. But before he left, he asked us to befriend him on Facebook.</p>
 <p>So I did.</p>
 <p>I looked at his pictures and read his inspirational posts from afar as he traveled and worked around the world.</p>
