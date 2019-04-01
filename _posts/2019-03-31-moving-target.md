@@ -1,7 +1,7 @@
 ---
-Title: "Moving Target"
-Layout: post
-Categories: 
+title: "Moving Target"
+layout: post
+categories: 
   - Daily Life
 ---
 <p>One of the goals I&rsquo;m working on is to read all of the books in my house. Which is compounded by the fact that the number of books in my house keeps growing. For my birthday last week, I went out to eat at Traveler&rsquo;s Restaurant and came home with five new (to me) books. Then yesterday morning, while I was reading, I came across three more books I want to read and ordered them online. Yesterday afternoon, I found a stack of books in a thrift store by some of my favorite authors. Yes, those came home with me, too&hellip;</p>

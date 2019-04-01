@@ -1,7 +1,7 @@
 ---
-Title: "Tell the Stories"
-Layout: post
-Categories:
+title: "Tell the Stories"
+layout: post
+categories:
   - Daily Life
 ---
 <p>One of the books that I&rsquo;m currently reading (Leaders Eat Last, by Simon Sinek) had an interesting chapter about brain chemistry. It talked about four of the chemicals that our bodies make and how they influence us. Here&rsquo;s my second grade understanding of the topic:</p>
