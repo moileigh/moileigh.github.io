@@ -1,7 +1,7 @@
 ---
-Title: "A Cat's Guide to Life"
-Layout: post
-Categories:
+title: A Cat's Guide to Life
+layout: post
+categories:
   - Daily Life
 ---
 <ul>

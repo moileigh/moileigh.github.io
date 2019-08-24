@@ -1,7 +1,7 @@
 ---
-Title: "One of Those Days"
-Layout: post
-Categories:
+title: "One of Those Days"
+layout: post
+categories:
   - Daily Life
 ---
 <p>Today was one of those days.</p>

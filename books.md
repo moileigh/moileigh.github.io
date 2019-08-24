@@ -8,7 +8,7 @@ permalink: /books/
 <a href="http://a.co/0WGJFxg" >
 <img class="cover" src="/assets/his-hands-cover.jpg" alt="In His Hands cover">
 </a>
-<h3>In His Hands</h3>
+<h2>In His Hands</h2>
 <p>
 A collection of essays dealing with every stage of the cancer journey from diagnosis to picking up the pieces and finding the new normal, but always returning to the central message that God is in control.
 This book reminds readers that even though there is pain in this world, there is also hope.
@@ -21,7 +21,7 @@ You come away saying, "Hey, I could do that. No matter what happens tomorrow, Go
 <a href="http://a.co/1pchw11" >
 <img class="cover" src="/assets/all-well-cover.jpg" alt="All is Well cover">
 </a>
-<h3>All is Well</h3>
+<h2>All is Well</h2>
 <p>
 A collection of poems by a breast cancer survivor, covering all aspects of the cancer journey from diagnosis, through treatment, to recovery and fear of recurrence -- but always coming back to the promise that God is in control.
 </p>
@@ -31,7 +31,7 @@ A collection of poems by a breast cancer survivor, covering all aspects of the c
 <a href="http://a.co/i295XGb" >
 <img class="cover" src="/assets/journey-cover.jpg" alt="Join Me in the Journey cover">
 </a>
-<h3>Join Me In the Journey</h3>
+<h2>Join Me In the Journey</h2>
 <p>
 Part my story and part yours, this book is meant to be read and written in over thirty-one days.
 "For some reason, for some purpose, God carefully crafted us to be exactly who we are.

@@ -64,10 +64,23 @@ img {
   float: right;
   border-radius: 15px;
 }
+
+
+/**
+ * Books 
+ */
+
 .bookDetails {
    overflow: auto;
    margin-bottom: 45px;
-   margin-left: 50px;
+   border-radius: 4px;
+   padding: 24px;
+
+   background: white;
+
+   p {
+     width: 50%;
+   }
 }     
 
 
@@ -108,6 +121,16 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
 }
 
+h1 {
+  font-size: $medium-font-size;
+  text-transform:lowercase;
+  font-variant: small-caps;
+}
+
+h2 {
+  font-size: $base-font-size;
+  font-style: italic;
+}
 
 
 /**

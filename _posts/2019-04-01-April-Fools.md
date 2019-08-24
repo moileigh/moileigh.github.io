@@ -1,7 +1,7 @@
 ---
-Title: "April Fools"
-Layout: post
-Categories:
+title: "April Fools"
+layout: post
+categories:
   - Daily Life
 ---
 <p>Scrolling through Facebook, I noticed that seven years ago today I was able to pet a kangaroo at a Sharks&rsquo; game. Eight years ago I had a snow day. Two years ago today I posted a picture of a white wonderland outside on April 1. Today seemed simple and quiet compared to each of those. There was a little ice on the wetland this morning, but none on the windshield and no snow on the ground&hellip;</p>

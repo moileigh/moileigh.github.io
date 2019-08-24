@@ -1,7 +1,7 @@
 ---
-Title: "Something to Tell You"
-Layout: post
-Categories:
+title: "Something to Tell You"
+layout: post
+categories:
    - Daily Life
 ---
 <p>I have something to share. Something that may not rock your world quite like it rocked mine, but something that may cause you to pause and reflect and carefully consider your worldview. Some of you may shake your head and walk away. Some may do a little victory dance at a perceived step forward. Most of you will hold your breath for a moment as you seek to process how this fits into your belief system. I did all three&hellip;</p>

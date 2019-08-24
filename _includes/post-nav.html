@@ -1,13 +1,18 @@
 <div class="browse-by-menu">
-<hr>
-<div class="post-cat-menu">
+<ul class="post-cat-menu">
    <li>Category:</li>
   {% for category in site.categories %}
     {% capture category_name %}{{ category | first }}{% endcapture %}
-   <li><a class="category-title" href="{{site.baseurl}}/posts/category/#{{category_name|slugize}}">{{category_name}}</a></li>
+    {% if category_name != "Devotional"  and category_name != "Daily Life"%}
+     <li><a class="category-title" href="{{site.baseurl}}/posts/category/#{{category_name|slugize}}">{{category_name}}</a></li>
+     {% elsif category_name == "Devotional"%}
+     <li><a class="category-title" href="{{site.baseurl}}/posts/category/#{{category_name|slugize}}">Devo.</a></li>
+     {% elsif category_name == "Daily Life"%}
+     <li><a class="category-title" href="{{site.baseurl}}/posts/category/#{{category_name|slugize}}">Life</a></li>
+     {% endif %}
   {% endfor %}
-</div>
-<div class="post-cat-menu">
+</ul>
+<ul class="post-cat-menu">
  <li>Year:</li>
  <li><a class="category-title" href="{{site.baseurl}}/posts/all/#2019">2019</a></li>
   <li><a class="category-title" href="{{site.baseurl}}/posts/all/#2018">2018</a></li>
@@ -16,6 +21,5 @@
   <li><a class="category-title" href="{{site.baseurl}}/posts/all/#2014">2014</a></li>
   <li><a class="category-title" href="{{site.baseurl}}/posts/all/#2013">2013</a></li>
   <li><a class="category-title" href="{{site.baseurl}}/posts/all/#2012">2012</a></li>
-</div>
-<hr>  
+</ul>
 </div>

@@ -1,7 +1,7 @@
 ---
-Title: "Unfinished Scupture"
-Layout: post
-Categories:
+title: "Unfinished Sculpture"
+layout: post
+categories:
    - Faith
    - Poetry
 ---

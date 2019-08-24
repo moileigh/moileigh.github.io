@@ -5,16 +5,17 @@ layout: default
 <article class="h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta">
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}
+    <span class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         {{ page.date | date: date_format }}
       </time>
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author | escape }}</span></span>
-      {%- endif -%}</p>
-<div class="post-categories">
+      {%- endif -%}</span>
+    </h1>
+<h2 class="post-categories">
   {% if post %}
     {% assign categories = post.categories %}
   {% else %}
@@ -22,9 +23,9 @@ layout: default
   {% endif %}
   {% for category in categories %}
   <a href="{{site.baseurl}}/posts/category/#{{category|slugize}}">{{category}}</a>
-  {% unless forloop.last %}&nbsp; |&nbsp; {% endunless %}
+  {% unless forloop.last %} / {% endunless %}
   {% endfor %}
-</div>
+</h2>
   </header>
 
 

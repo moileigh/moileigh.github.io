@@ -17,7 +17,7 @@
 }
 
 .site-title {
-  @include relative-font-size(2.25);
+  font-size: $big-font-size;
   font-weight: 450;
   letter-spacing: -1px;
   margin-bottom: 0;
@@ -34,10 +34,10 @@
 }
 
 .site-subtitle {
-  @include relative-font-size(1.15);
+  font-size: $base-font-size;
+  font-style: italic;
   font-weight: 350;
   margin-bottom: 8px;
-  margin-top: 12px;
   line-height: normal;
   float: left;
 
@@ -94,11 +94,11 @@
   }
 
   .page-link {
-   line-height: $base-line-height;
+    line-height: $base-line-height;
     display: block;
     padding: 5px 5px;
     color: $text-color;
-    @include relative-font-size(1.4);
+    font-size: $medium-font-size;
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
@@ -220,13 +220,11 @@
   @include relative-font-size(2);
 }
 
-.post-list-heading {
-  @include relative-font-size(1.75);
-}
 
 .post-list {
   margin-left: 0;
   list-style: none;
+  clear: left;
 
   > li {
     margin-bottom: $spacing-unit;
@@ -235,12 +233,11 @@
 
 .post-meta {
   font-size: $small-font-size;
+  font-style: normal;
   color: $grey-color;
 }
 
 .post-link {
-  display: block;
-  @include relative-font-size(1.5);
 }
 
 
@@ -248,25 +245,30 @@
  * Post-nav
  */
 .browse-by-menu {
-   padding: 0px 0px 20px;
-   @include relative-font-size(1.2);
-   
-   >hr {
-      border-color: $charcoal-color-light;
- }
+   font-size: $base-font-size;
+   clear: left;
 }
 
 .post-cat-menu {
    margin: 5px auto;
+   list-style: none;
+   clear: left;
 
-   
-   >li {
-     display: inline-block;
-     padding: 0px 5px;
-     zoom:1;
-     *display:inline;
+   > :first-child {
+     text-align: right;
+     margin-right: 4px;
    }
 }
+
+.post-cat-menu li {
+     padding: 2px;
+     float: left;
+     width: 4.5em;
+     display: block;
+}
+
+
+
 .category-title {
       color: $text-color !important;
 }
@@ -276,55 +278,18 @@
  * Posts
  */
 .post {
-  background-color: $paper-color-light;
-  border-radius: 15px 50px;
+  //background-color: $paper-color-light;
+  //border-radius: 15px 50px;
   padding-top: 20px;
   padding-right: 20px;
   padding-bottom: 50px;
-  padding-left: 20px;
 }
 
 .post-header {
-  margin-bottom: $spacing-unit;
-}
-
-.post-title,
-.post-content h1 {
-  @include relative-font-size(2.625);
-  letter-spacing: -1px;
-  line-height: 1;
-
-  @media screen and (min-width: $on-large) {
-    @include relative-font-size(2.625);
-  }
 }
 
 .post-content {
   margin-bottom: $spacing-unit;
-
-  h2 {
-    @include relative-font-size(1.75);
-
-    @media screen and (min-width: $on-large) {
-      @include relative-font-size(2);
-    }
-  }
-
-  h3 {
-    @include relative-font-size(1.375);
-
-    @media screen and (min-width: $on-large) {
-      @include relative-font-size(1.625);
-    }
-  }
-
-  h4 {
-    @include relative-font-size(1.125);
-
-    @media screen and (min-width: $on-large) {
-      @include relative-font-size(1.25);
-    }
-  }
 }
 
 .social {
@@ -339,6 +304,12 @@
    padding-bottom: 16px;
    text-align: center;
 }
+
+.post-categories {
+   margin-bottom: $spacing-unit/2;
+}
+
+
 
 .direction {
    padding: 4px;

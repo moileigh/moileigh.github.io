@@ -10,24 +10,27 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Recent Posts" }}</h2>
+    <h1>
+      {{ page.list_title | default: "Recent Posts" }}
+    </h1>
     <ul class="post-list">
       {%- for post in site.posts limit:4-%}
       <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
+        <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-        </h3>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        </h2>
         {%- if site.show_excerpts -%}
             {{ post.content | markdownify | strip_html  | truncatewords: 50 }}
         {%- endif -%}
       </li>
       {%- endfor -%}
     </ul>
-    <a href="/posts">more posts...</a>
+    <h2><a href="/posts">more posts...</a></h2>
+
   {%- endif -%}
 
 </div>
