@@ -3,7 +3,6 @@ title: "Confirmed"
 layout: post
 category:
    -- Daily Life
-   -- Faith
 ---
 <p style="margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:Cambria;">Today it hit me.</p>
 <p style="margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:Cambria;">For just a moment, it became heart-stopping, breath-taking, and real. I was scrolling through Facebook, reading the home-schooling memes and toilet paper talk when I saw four words: “confirmed case in Charlton.”</p>
