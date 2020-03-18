@@ -1,5 +1,5 @@
 ---
-title "Confirmed"
+title: "Confirmed"
 layout: post
 category:
    -- Daily Life
