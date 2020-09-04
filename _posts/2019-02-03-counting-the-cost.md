@@ -2,7 +2,7 @@
 title: "Counting the Cost"
 layout: post
 categories:
-  - Faith
+  - faith
 ---
 <p><span style="color: #800080;">I don&rsquo;t always think ahead as much as I ought to. One of my father&rsquo;s greatest laments as I was growing up. I can still see the sadness in his eyes as he looked at me after one of my fiascos and asked, &ldquo;Don&rsquo;t you ever think first?&rdquo; At the time I didn&rsquo;t have the words to respond, devastated that I&rsquo;d disappointed my father, again. I still don&rsquo;t have all the words. But one things I&rsquo;d say is, &ldquo;Yes. I do.&rdquo; I do think first &ndash; but somehow I just never think of what actually ends up happening.</span></p>
 <p><span style="color: #800080;">Sometimes I think too much. That&rsquo;s when it becomes full blown worry and it often stops me from moving at all. Which I think can be worse than moving forward unprepared.</span></p>
