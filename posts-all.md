@@ -4,12 +4,12 @@ title: All Posts
 permalink: /posts/all/
 ---
 
-
 <ul class="post-list">
 {% for post in site.posts %}
   {% assign currentdate = post.date | date: "%Y" %}
    {% if currentdate != date %}
-      <h1 id="{{post.date | date: "%Y"}}">{{ currentdate }}</h1>
+        <h1 id="{{post.date | date: "%Y"}}" style="display:inline;"><span>{{ currentdate }}</span></h1>
+        <a href="#top" class="to-top">Return to top</a>
       {% assign date = currentdate %}
    {% endif %}
   <li>
