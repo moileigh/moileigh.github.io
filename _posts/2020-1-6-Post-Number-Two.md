@@ -2,7 +2,7 @@
 title: "Post Number Two"
 layout: post
 category:
-    -- Daily Life
+    - Daily Life
 ---
 It&#39;s amazing how much more time there is when I don&#39;t turn on the TV.
 
