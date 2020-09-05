@@ -15,17 +15,22 @@ layout: default
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author | escape }}</span></span>
       {%- endif -%}</span>
     </h1>
-<h2 class="post-categories">
+<div class="tags">
   {% if post %}
     {% assign categories = post.categories %}
   {% else %}
     {% assign categories = page.categories %}
   {% endif %}
   {% for category in categories %}
-  <a href="{{site.baseurl}}/posts/category/#{{category|slugize}}">{{category}}</a>
-  {% unless forloop.last %} / {% endunless %}
+    <span class="tag">
+    {% if category != "Daily Life"%}
+     <a href="{{site.baseurl}}/category/{{category|slugize}}">#{{category}}</a>
+     {% elsif category == "Daily Life"%}
+     <a href="{{site.baseurl}}/category/daily-life">#{{category}}</a>
+     {% endif %}
+     </span>
   {% endfor %}
-</h2>
+</div>
   </header>
 
 
