@@ -160,7 +160,6 @@
 
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
-  color: $charcoal-color;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
 }
