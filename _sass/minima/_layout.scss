@@ -98,7 +98,8 @@
     padding: 5px 5px;
     color: $text-color;
     font-family: $script-font-family;
-    font-size: $big-font-size;
+//    font-size: $big-font-size;
+    font-size: 30px;
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
@@ -227,6 +228,12 @@
   transition: 0.3s;
   display: flex;
   margin: 0 0 50px 0;
+  overflow: hidden;
+}
+  @media only screen and (max-width: 600px) {
+.card {
+  flex-wrap: wrap;
+  }
 }
 
 
@@ -237,7 +244,7 @@
 
 .card-text {
   flex: 1 1 auto;
-  margin: $spacing-unit $spacing-unit/2 $spacing-unit $spacing-unit/2 ;
+  margin: $spacing-unit/2;
 
   }
 
@@ -247,23 +254,30 @@
 }
 
 .card-image {
-  margin: 20px;
-  width: 100px;
-  flex-shrink: 0;
+  //margin: 20px;
+  flex: 0 0 200px;
   object-fit: contain;
   align-self: flex-start;
-  }
-  @media only screen and (max-width: 600px) {
-.card-image {
-  margin: 10px;
-  width: 75px;
-  flex-shrink: 0;
-  object-fit: contain;
-  align-self: flex-start;
-  }
 }
 
+.amazon-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
 
+.amazon-img {
+  padding: 10px;
+  margin-right: 20px;
+  width: 175px;
+}
+
+.amazon-link {
+  justify-content: right;
+  margin-left: auto;
+  margin-top: auto;
+  align-self: bottom;
+
+}
 
 
 
