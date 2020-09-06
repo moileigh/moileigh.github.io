@@ -17,34 +17,24 @@ $base-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;
 
-$gold-color:       #C0B283 !default;
-$silk-color:       #DCD0C0 !default;
-$paper-color:      #F4F4F4 !default;
-$charcoal-color:   #373737 !default;
-$button-blue:      #1971c2 !default;
+//new colors
+$paper-color:     #FAFBFC !default;
+$warm-soil:       #C8A364 !default;
+$fringe-purple:   #A79599 !default;
 
-$silk-color-light: lighten($silk-color, 15%) !default;
-$paper-color-light: lighten($paper-color, 5%) !default;
-$gold-color-light: lighten($gold-color, 10%) !default;
-$charcoal-color-light: lighten($charcoal-color, 40%) !default;
-
-$gold-color-dark: darken($gold-color, 40%) !default;
-
+$grey-color:       #828282 !default;
+$orange-color:     #f66a0a !default;
 
 $text-color:       #111 !default;
-$background-color: $silk-color-light;
+$background-color: $paper-color;
+
+//old colors 
+$button-blue:      #1971c2 !default;
+
+//links are brand-color
 $brand-color:      #2a7ae2 !default;
 
 
-
-$pink-color:       #f2b1b1 !default;
-$pink-color-light: lighten($pink-color, 40%) !default;
-$pink-color-dark:  darken($pink-color, 25%) !default;
-
-$grey-color:       #828282 !default;
-$grey-color-light: lighten($grey-color, 40%) !default;
-$grey-color-dark:  darken($grey-color, 25%) !default;
-$orange-color:     #f66a0a !default;
 $table-text-align: left !default;
 
 // Width of the content area
