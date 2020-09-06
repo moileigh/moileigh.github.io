@@ -12,5 +12,5 @@ Please feel free to get in touch via the form below.
    <input type="email" name="email" placeholder="Your email">
    <input type="name" name="name" placeholder="Your name">
    <textarea name="message" placeholder="Your Message" rows="8"></textarea>
-  <button type="submit">Send</button>
+  <button type="submit">send</button>
 </form>

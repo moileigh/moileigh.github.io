@@ -120,6 +120,60 @@ body {
 
 
 /**
+ * Forms and stuff
+ */
+
+input { 
+  border: none;
+  border-bottom: 1px solid $fringe-purple;
+  background: $background-color;
+  width: 100%;
+  font-size: $base-font-size;
+  margin-bottom: $spacing-unit/2;
+  font-family: $base-font-family
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: $grey-color;
+  opacity: 1; /* Firefox */
+  font-family: $base-font-family
+}
+
+textarea {
+  width: 100%;
+  resize: none;
+  background: $background-color;
+  border-style: solid;
+  border-color: $fringe-purple;
+  font-size: $base-font-size;
+  font-family: $base-font-family
+
+}  
+
+
+button {
+  margin: $spacing-unit/2 0 $spacing-unit/2 0;
+  font-size: $medium-font-size;
+  font-family: $base-font-family;
+  display: flex;
+  margin-left: auto;
+
+  background-color: $spring-bud;
+  box-shadow: 2px 4px 6px 0 $fringe-purple;                                                        
+  transition: 0.3s;
+  border: none;
+  padding: 0 $spacing-unit/2 0 $spacing-unit/2;
+  border-radius: 6px;
+
+  font-variant: small-caps;
+}
+
+button:hover {
+  box-shadow: 4px 6px 10px 0 $fringe-purple;
+}
+
+
+/**
  * Set `margin-bottom` to maintain vertical rhythm
  */
 h1, h2, h3, h4, h5, h6,
@@ -128,7 +182,6 @@ ul, ol, dl, figure,
 %vertical-rhythm {
   margin-bottom: $spacing-unit / 2;
 }
-
 
 
 /**
@@ -389,21 +442,5 @@ table {
   }
 }
 
-
-
-/**
- * Forms and stuff
- */
-input {
-   @include relative-font-size(1.2);
-   width: 100%;
-   margin-bottom: 10px;
-}
-
-textarea {
-   @include relative-font-size(1.2);
-   width: 100%;
-   resize: none;
-}  
 
 
