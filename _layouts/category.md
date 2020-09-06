@@ -5,7 +5,7 @@ layout: default
 <div class="archive-group" style="position:relative;">
     {% capture category_name %}{{ page.tag }}{% endcapture %}
    
-   <h1 class="category-head">Filed Under <span class="tag">#{{ category_name }}</span></h1>
+   <h1 class="category-head">Filed Under : <span class="tag">#{{ category_name }}</span></h1>
    <a name="{{ category_name | slugize }}" style="position:absolute; top: -5px;"></a>
    <ul class="post-list">
     {% for post in site.categories[category_name] %}
