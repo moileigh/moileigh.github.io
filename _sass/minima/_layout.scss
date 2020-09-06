@@ -291,6 +291,7 @@
 
   > li {
     margin-bottom: $spacing-unit;
+    margin-left: $spacing-unit/2;
   }
 }
 
@@ -301,7 +302,6 @@
 }
 
 .post-link {
-  margin-left: $spacing-unit/2;
 }
 
 .more-posts {
