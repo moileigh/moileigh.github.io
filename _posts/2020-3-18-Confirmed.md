@@ -23,6 +23,3 @@ layout: post
 <p >&nbsp;</p>
 <p >Until then, cling to the hope that this, too, shall pass. And cling to the Hope that while this may have caught us by surprise, it did not surprise the God Who makes all things new. The God Who teaches flowers to germinate in the dark and explode in the spring. Today may be dark but our spring is coming.</p>
 <p >That is confirmed.</p>
-<p >&nbsp;</p>
-<p >&nbsp;</p>
-<p >&nbsp;</p>
