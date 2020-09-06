@@ -286,6 +286,7 @@
   margin-left: 0;
   list-style: none;
   clear: left;
+  margin-bottom: $spacing-unit*2;
 
   > li {
     margin-bottom: $spacing-unit;
@@ -299,6 +300,7 @@
 }
 
 .post-link {
+  margin-left: $spacing-unit/2;
 }
 
 .more-posts {
@@ -312,8 +314,12 @@
  */
 
 .to-top {
-  margin-left: 20px;
-  font-size: $base-font-size;
+  margin-left: $spacing-unit;
+  font-size: 16px;
+}
+
+.year-marker{
+  display: inline-block;
 }
 
 
