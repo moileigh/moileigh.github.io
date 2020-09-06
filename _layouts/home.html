@@ -13,22 +13,23 @@ layout: default
     <h1>
       {{ page.list_title | default: "Recent Posts" }}
     </h1>
-    <ul class="post-list">
       {%- for post in site.posts limit:4-%}
-      <li>
-        <h3>
+      <div class="card">
+        <div class="card-text">
+        <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-        </h3>
+        </h2>
         {%- if site.show_excerpts -%}
             {{ post.content | markdownify | strip_html  | truncatewords: 50 }}
         {%- endif -%}
-      </li>
+        </div>
+      </div> 
       {%- endfor -%}
-    </ul>
+
     <div class="more-posts"><a href="/posts">more posts...</a></div>
 
   {%- endif -%}
