@@ -31,7 +31,7 @@ layout: default
   {% for category in categories %}
     <span class="tag">
     {% if category != "Daily Life"%}
-     <a href="{{site.baseurl}}/category/{{category|slugize}}">#{{category}}</a>
+     <a href="{{site.baseurl}}/category/{{category|slugize|downcase}}">#{{category}}</a>
      {% elsif category == "Daily Life"%}
      <a href="{{site.baseurl}}/category/daily-life">#{{category}}</a>
      {% endif %}

@@ -4,7 +4,7 @@
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <span class="tag">
     {% if category_name != "Daily Life"%}
-     <a href="{{site.baseurl}}/category/{{category_name|slugize}}">#{{category_name}}</a>
+     <a href="{{site.baseurl}}/category/{{category_name|slugize|downcase}}">#{{category_name}}</a>
      {% elsif category_name == "Daily Life"%}
      <a href="{{site.baseurl}}/category/daily-life">#{{category_name}}</a>
      {% endif %}
