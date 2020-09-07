@@ -152,8 +152,8 @@ textarea {
 
 
 button {
-  margin: $spacing-unit/2 0 $spacing-unit/2 0;
-  font-size: $medium-font-size;
+  margin: $spacing-unit/2 0 0 0;
+  font-size: $base-font-size;
   font-family: $base-font-family;
   display: flex;
   margin-left: auto;
@@ -162,14 +162,15 @@ button {
   box-shadow: 2px 4px 6px 0 $fringe-purple;                                                        
   transition: 0.3s;
   border: none;
-  padding: 0 $spacing-unit/2 0 $spacing-unit/2;
-  border-radius: 6px;
+  padding: $spacing-unit/4 $spacing-unit/2 $spacing-unit/4 $spacing-unit/2;
+  border-radius: 4px;
 
-  font-variant: small-caps;
+  //font-variant: small-caps;
 }
 
 button:hover {
   box-shadow: 4px 6px 10px 0 $fringe-purple;
+  filter: brightness(105%);
 }
 
 
