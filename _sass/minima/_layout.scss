@@ -429,3 +429,57 @@ pre .tag {
    //border-radius: 10px;
 }
 
+/**
+ * Subscribe Form
+ */
+
+.newsletter-container {
+  flex-direction: column;
+  padding: $spacing-unit/2;
+  margin-bottom: $spacing-unit;
+  border-radius: 10px;
+  box-shadow: 2px 4px 6px 0 $fringe-purple;
+  transition: 0.3s;
+  display: flex;
+  overflow: hidden;
+  font-size: $base-font-size;
+}
+
+/* On mouse-over, add a deeper shadow */
+.newsletter-container:hover {
+  box-shadow: 4px 6px 10px 0 $fringe-purple;
+}
+
+.newsletter-form {
+}
+
+.newsletter-title {
+  margin-bottom: 0;
+  font-size: 30px;
+  font-family: $script-font-family;
+}
+
+.newsletter-email,
+.newsletter-text,
+.newsletter-submit {
+  font-family: $base-font-family;
+  display: inline-block;
+  padding: 0;
+  align-self: center;
+  margin-bottom: $spacing-unit/2;
+}
+
+
+.newsletter-submit {
+  margin: 0;
+  text-align: center;
+  width: 100%;
+  padding-top: $spacing-unit/4;
+  padding-bottom: $spacing-unit/4;
+  background: $spring-bud;
+}
+
+@media screen and (min-width: 400px) {
+    }
+
+
