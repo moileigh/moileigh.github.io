@@ -21,6 +21,8 @@ $spacing-unit:     32px !default;
 $paper-color:     #FAFBFC !default;
 $warm-soil:       #C8A364 !default;
 $fringe-purple:   #A79599 !default;
+//$deep-lilac:      #836D71 !default;
+$deep-lilac:      #8760B5 !default;
 $spring-bud:      #A9D563 !default;
 
 $grey-color:      #5A5A58 !default;
@@ -36,7 +38,8 @@ $background-color: $paper-color;
 $button-blue:      #1971c2 !default;
 
 //links are brand-color
-$brand-color:      #2a7ae2 !default;
+//$brand-color:      #2a7ae2 !default;
+$brand-color:      $deep-lilac !default;
 
 
 $table-text-align: left !default;
