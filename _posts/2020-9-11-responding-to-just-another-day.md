@@ -1,5 +1,5 @@
 ---
-title: "Responging to: Just Another Day (Posted 11/15/2012)"
+title: "Responding to: Just Another Day (Posted 11/15/2012)"
 layout: post
 categories:
    - Daily Life
