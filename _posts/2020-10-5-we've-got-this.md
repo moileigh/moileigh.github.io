@@ -1,9 +1,10 @@
 ---
-title: "We've Got This:
+title: "We've Got This"
 layout: post
 categories:
    - Encouragement
 ---
+
 Today I&#39;m tired.
 
 Actually, I&#39;ve been tired since somewhere in mid-August.
