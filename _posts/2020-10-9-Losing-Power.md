@@ -29,4 +29,4 @@ Did that second child love the storm because they focused on the benefits while 
 
 I&#39;m sure there are many factors that work together to make us more apt to be frightened or invigorated when the power goes out. But I&#39;m also sure that to some extent, we can choose how we respond to the storms and bumpy roads in life.
 
-Choose gratitude. Choose to see the fun of gathering around the candle in the dark. Choose hope.
+I hope you choose gratitude. I hope you choose to see the fun of gathering around the candle in the dark. I hope you choose Hope.
