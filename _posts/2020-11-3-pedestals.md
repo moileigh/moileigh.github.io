@@ -1,5 +1,5 @@
 ---
-title: "Pedastals"
+title: "Pedestals"
 layout: post
 categories:
   - Daily Life
