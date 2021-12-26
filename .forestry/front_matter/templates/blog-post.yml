@@ -12,3 +12,14 @@ fields:
 - type: list
   name: categories
   label: categories
+  config:
+    use_select: true
+    source:
+      type: simple
+    options:
+    - Faith
+    - Poetry
+    - Devotional
+    - Daily Life
+    - Cancer
+    - Encouragement
