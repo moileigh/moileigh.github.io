@@ -23,3 +23,5 @@ fields:
     - Daily Life
     - Cancer
     - Encouragement
+pages:
+- _posts/file.md
