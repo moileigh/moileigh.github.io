@@ -8,6 +8,7 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: post
 - type: list
   name: categories
   label: categories
