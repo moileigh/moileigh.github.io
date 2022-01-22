@@ -10,15 +10,6 @@ fields:
   label: layout
   default: post
   hidden: true
-- name: date
-  type: datetime
-  description: The creation date of the post (as you want it to be displayed)
-  config:
-    required: false
-    date_format: 
-    time_format: 
-    display_utc: false
-  label: Date
 - type: list
   name: categories
   label: categories
