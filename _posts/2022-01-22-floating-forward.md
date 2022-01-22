@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Floating Forward
-categories:
-- Poetry
+date: 2022-01-22 22:38:00 +0000
+categories: []
 
 ---
 I need to compare me to Me.
