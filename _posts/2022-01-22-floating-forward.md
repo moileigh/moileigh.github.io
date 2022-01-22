@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Floating Forward
-date: 
 categories:
 - Poetry
 
