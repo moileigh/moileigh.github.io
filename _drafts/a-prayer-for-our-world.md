@@ -17,6 +17,7 @@ and don’t know what to do.
 
 People dying without having learned of God’s love.
 
+
 Oh, Abba, Stop the wars.
 
 Heal the people.
@@ -24,6 +25,7 @@ Heal the people.
 Thy will be done here on earth –
 
 starting with me.
+
 
 Show me what You want me to do.
 
@@ -34,6 +36,7 @@ and stop doing.
 Show me what to say. What to shout.
 
 What to write. How to help.
+
 
 Help me want to get involved
 
@@ -77,7 +80,9 @@ with my right now
 
 for my world.
 
+
 What can I do?
+
 
 I can whisper of Hope.
 
@@ -98,6 +103,7 @@ I can whisper of Hope.
 
 
 * Don’t give up. Don’t give in.
+
 
 I can listen
 
@@ -133,6 +139,7 @@ I can listen
 
 * You are heard!
 
+
 I can shout of Love.
 
 * The Creator God has not left you.
@@ -161,6 +168,7 @@ I can shout of Love.
 
 * with Peace as the Final Outcome.
 
+
 I can encourage you
 
 * to step forward and do what You were made to do.
@@ -177,6 +185,7 @@ I can encourage you
 
 
 * and fill it.
+
 
 I can dance
 
@@ -226,6 +235,7 @@ I can dance
 
 
 * out of our broken chaos.
+
 
 I can pray.
 
